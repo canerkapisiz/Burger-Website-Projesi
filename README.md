@@ -1,5 +1,5 @@
 ## Burger WebSitesi
- * Bu Depoda Full Stack Web Geliştirme eğitimi kapsamında geliştirdiğimiz **Mimar Websitesi** projenin farklı yöntemlerle uygulanmış halini bulabilirsiniz.
+ * Bu Depoda Full Stack Web Geliştirme eğitimi kapsamında geliştirdiğimiz **Burger Websitesi** projenin farklı yöntemlerle uygulanmış halini bulabilirsiniz.
  * Can Boz hocama verdiği eğitimler için teşekkür ederim.
 
 
